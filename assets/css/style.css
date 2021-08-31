@@ -1,0 +1,29 @@
+.main-header {
+  font-family: 'Besley', serif;
+  color: purple;
+  text-align: center;
+  text-transform: uppercase;
+}
+.art-header {
+  font-family: 'Dancing Script', cursive;
+  color: blue;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.art-header + p {
+  font-size: 20px;
+  font-style: none;
+  font-weight: 300;
+  font-family: 'Kaisei HarunoUmi', serif;
+  line-height: 1.5em;
+}
+.page-link {
+  /* text-decoration: none; */
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-style: wavy;
+  text-decoration-color: crimson;
+}
+.aline-center{
+  text-align: center;
+}
